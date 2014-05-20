@@ -3,6 +3,7 @@ firebase
 
 CodeIgniter Firebase Library
 
+```php
 $this->load->spark('firebase/0.0.1');
 $this->firebase->initialize(array(
     'app_path'   => '<Firebase path Here>',
@@ -13,3 +14,4 @@ $this->firebase->initialize(array(
  * Use the set method
  * $this->firebase->set(<path>, [data]);
  */
+```
