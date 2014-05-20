@@ -1,0 +1,4 @@
+firebase
+========
+
+CodeIgniter Firebase Library
